@@ -1,8 +1,8 @@
 ### I DO
 
-- Backend Web Development with stacks of Django, Flask and Express
-- Great Front-end skill sets.
-- Ccripts in Python for 3d graphic tools of choice : Game engines & VFX tools.
+- Server-side Development : Django, Flask or Express + MySQL, MongoDB + AWS
+- Web Client side: React.js
+- Scripts in Python/C++ for 3d graphic tools of choice : Game engines & 3d graphics tools.
 
 ### I AM
 
